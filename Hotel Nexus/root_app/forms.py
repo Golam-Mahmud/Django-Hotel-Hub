@@ -1,6 +1,5 @@
 from django import forms
 
-
 class SearchForm(forms.Form):
     ROOM_STYLE = (
         ('standard', 'Standard'),

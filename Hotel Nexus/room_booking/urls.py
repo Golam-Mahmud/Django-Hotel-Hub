@@ -1,6 +1,6 @@
 from django.urls import path
 
-from room_booking import views
+from room_booking import views    
 
 
 urlpatterns = [

@@ -1,5 +1,5 @@
 from django.contrib import admin
-
+  
 from room_booking.models import Booking, WishList, BookingHistory
 
 
